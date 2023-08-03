@@ -1,4 +1,4 @@
-:partner-solution-project-name: cfn-ps-iridium-cloudconnect
+:partner-solution-project-name: cfn-ps-iridium-cloudconnect-sbd
 :partner-solution-github-org: aws-ia
 :partner-product-name: Iridium CloudConnect for SBD
 :partner-product-short-name: Iridium CloudConnect
