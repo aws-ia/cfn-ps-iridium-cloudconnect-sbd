@@ -1,5 +1,5 @@
 project:
-  name: cfn-ps-iridium-cloudconnect-sb
+  name: cfn-ps-iridium-cloudconnect-sbd
   owner: quickstart-eng@amazon.com
   package_lambda: false
   regions:
